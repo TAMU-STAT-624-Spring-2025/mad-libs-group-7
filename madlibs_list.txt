@@ -1,26 +1,3 @@
-<<<<<<< HEAD
-1. Friend's Name I
-2. Adjective  
-3. Adjective
-4. Color  
-5. Month 
-6. Number 
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
-11. Liquid
-12. Full
-13. Toys
-14. Playing
-15. happily
-16. 15
-17. years
-18. Different Activity
-19. Adjective
-20. Vehicle Truck
-21. Your Name
-=======
 1. Friend's Name: Reinaldo
 2. Adjective: Funny
 3. Adjective: Sweet
@@ -32,14 +9,14 @@
 9. Noun: Boats
 10. Room Name: Kitchen
 11. Liquid: Coffee
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
->>>>>>> cdd98413bb1fe07862ab7bd0aac0e397cff46a10
+12. Adjective: Full
+13. Material: Toys
+14. Activity: Playing
+15. Adverb: Happily
+16. Number: 15
+17. Fortnights
+18. Bird Watching
+19. Chill
+20. Honda Civic
+21. Reece
+
