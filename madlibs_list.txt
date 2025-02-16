@@ -1,9 +1,9 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
-6. Number
+1. Friend's Name: Reinaldo
+2. Adjective: Funny
+3. Adjective: Sweet
+4. Color: Blue
+5. Month: January
+6. Number: 18
 7. Noun (Plural)
 8. Noun (Plural)
 9. Noun
