@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. Friend's Name I
 2. Adjective  
 3. Adjective
@@ -19,3 +20,26 @@
 19. Adjective
 20. Vehicle Truck
 21. Your Name
+=======
+1. Friend's Name: Reinaldo
+2. Adjective: Funny
+3. Adjective: Sweet
+4. Color: Blue
+5. Month: January
+6. Number: 18
+7. Noun: Apples
+8. Noun: Cards
+9. Noun: Boats
+10. Room Name: Kitchen
+11. Liquid: Coffee
+12. Adjective
+13. Material
+14. Activity
+15. Adverb
+16. Number
+17. Unit of Time
+18. Different Activity
+19. Adjective
+20. Vehicle
+21. Your Name
+>>>>>>> cdd98413bb1fe07862ab7bd0aac0e397cff46a10
