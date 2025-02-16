@@ -9,13 +9,14 @@
 9. Noun: Boats
 10. Room Name: Kitchen
 11. Liquid: Coffee
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
-16. Number
+12. Adjective: Full
+13. Material: Toys
+14. Activity: Playing
+15. Adverb: Happily
+16. Number: 15
 17. Fortnights
 18. Bird Watching
 19. Chill
 20. Honda Civic
 21. Reece
+
