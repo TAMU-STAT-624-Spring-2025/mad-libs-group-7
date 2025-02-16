@@ -1,12 +1,20 @@
-Title: The Galactic Adventure
+iTitle: The Galactic Adventure
 
 Dear Reinaldo,
 
+<<<<<<< HEAD
+I am writing to you from a [2] spaceship in a [3] galaxy. I found myself here one day after
+going for a ride on a [4] rocket in [5]. There are [6] [7] and [8] of [9] here! In the
+[10] there is a pool full of balls. I fall asleep each night on a full bed of
+toys and dream of playing happily. It feels as though I have lived here for
+15 years. I hope one day you can visit, although the only way to get here now is
+=======
 I am writing to you from a funny spaceship in a sweet galaxy. I found myself here one day after
 going for a ride on a blue rocket in January. There are 18 apples and cards of boats here! In the
 kitchen there is a pool full of coffee. I fall asleep each night on a [12] bed of
 [13] and dream of [14] [15]. It feels as though I have lived here for
 [16] [17]. I hope one day you can visit, although the only way to get here now is
+>>>>>>> cdd98413bb1fe07862ab7bd0aac0e397cff46a10
 [18] on a [19] [20]!!
 
 Best wishes,
