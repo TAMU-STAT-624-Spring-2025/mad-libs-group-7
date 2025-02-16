@@ -4,11 +4,11 @@
 4. Color: Blue
 5. Month: January
 6. Number: 18
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
-11. Liquid
+7. Noun: Apples
+8. Noun: Cards
+9. Noun: Boats
+10. Room Name: Kitchen
+11. Liquid: Coffee
 12. Adjective
 13. Material
 14. Activity
